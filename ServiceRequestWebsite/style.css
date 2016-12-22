@@ -1,0 +1,27 @@
+#table1{
+	text-align:center;
+	font-family:"Lucida Calligraphy";
+	background:#FFFF99;
+	font-size:large;
+}
+#icon{
+	text-align:center;
+	font-family:"Comic Sans MS";
+	position:relative;
+	font-size:italic;
+	
+}
+a{text-decoration:none;
+  color:#006400;}
+#footer
+{
+	text-align:center;
+	font-family:"Lucida Calligraphy";
+	position:absolute;
+	font-size:18px;
+	bottom:0;
+	right:0;
+	left:0;
+	background:#FFFF99;
+	
+}  
